@@ -1,7 +1,7 @@
 {
-  "name": "ng-password-strength",
-  "version": "0.3.0",
-  "description": "ng-password-strength",
+  "name": "ng-password-strength-maintaned",
+  "version": "0.3.1",
+  "description": "ng-password-strength-maintaned",
   "homepage": "https://github.com/subarroca/ng-password-strength",
   "bugs": "https://github.com/subarroca/ng-password-strength/issues",
   "licenses": [

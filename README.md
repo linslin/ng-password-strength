@@ -1,4 +1,4 @@
-# ng-password-strength
+# ng-password-strength-maintained
 
 Password strength checker wrapped in an angular directive
 Based on:
